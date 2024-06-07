@@ -1,2 +1,2 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/280203622384402433/1248533120471531551/GNxkteOaAAAGxbt.jpg?ex=6664ab54&is=666359d4&hm=c868e63d7e2fd3d4b5c869fcd07a8823f0b76e793b55759dbb47649f164e6c4f&');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/ABuffaloHerd/ABuffaloHerd/main/GNxkteOaAAAGxbt.jpg');]{x0000}$}
